@@ -1,6 +1,6 @@
 Hey there,
 
-I'm Naka.  Full time UI dev, part time creator of hacky scripts that take care of annoying stuff on the web for me.  
-I recently (or not so recently because I'll probably never update this) created a program that automatically responds to things in Twitch Chat.
+I'm Naka.  Full time full-stack dev, part time creator of hacky scripts that take care of annoying stuff on the web for me.  
+I've hosted stuff for twitch.tv, Discord, D&D, my wife's business, and other personal projects here.
 
 Thanks for stopping by!
